@@ -12,6 +12,7 @@
             if (userInput >= 14)
             {
                 Console.WriteLine("Your guess is too high!");
+
             }
             else if (userInput == 13)
             {
