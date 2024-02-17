@@ -6,6 +6,7 @@
         {
             int favNumber = 13;
             Console.WriteLine("Try to guess my favorite number.");
+
             var userInput = int.Parse(Console.ReadLine());
 
             if (userInput >= 14)
