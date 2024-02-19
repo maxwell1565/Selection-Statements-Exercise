@@ -9,7 +9,7 @@
 
             var userInput = int.Parse(Console.ReadLine());
 
-            if (userInput >= 14)
+            if (userInput >= 14) 
             {
                 Console.WriteLine("Your guess is too high!");
 
